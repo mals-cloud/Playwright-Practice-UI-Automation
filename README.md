@@ -179,12 +179,3 @@ export default defineConfig({
 
 ---
 
-## 👩‍💻 Author
-
-**Malathi Subburathinam**
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
