@@ -46,7 +46,4 @@ test('Sauce demo - Product Order Workflow',async({page})=>{
    const confirmationMsg = await thankYouPage.getOrderConfirmationMsg()
    //console.log(confirmationMsg)
    expect(confirmationMsg).toContain('Your order has been dispatched, and will arrive just as fast as the pony can get there!')
-
-
-
 })
